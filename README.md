@@ -119,7 +119,7 @@ The dashboard includes:
 
 The slicers allow users to filter the dashboard and explore different customer groups.
 
-![Bike Sales Dashboard](images/bike-sales-dashboard.png)
+![Bike Sales Dashboard](images/bike-sales-dashboard.jpg)
 
 ## Conclusion
 
