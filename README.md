@@ -131,5 +131,7 @@ As a beginner in data analytics, this project is part of my journey toward devel
 
 ## Project Files
 
-- `Bike_Sales_Analysis.xlsx` — Excel workbook containing the analysis and dashboard.
-- `images/bike-sales-dashboard.png` — dashboard preview.
+## Project Files
+
+- `Bike_Sales_Analysis_Project .xlsx` — Excel workbook containing the analysis and dashboard.
+- `images/bike-sales-dashboard.jpg` — dashboard preview.
